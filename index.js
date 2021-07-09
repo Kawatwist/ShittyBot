@@ -21,3 +21,4 @@ client.on('message', msg =>{
 		msg.channel.send('ca parle d\'un bg ici ?');
 	}
 });
+// Pour generer un nouveau tokken : https://discord.com/developers/applications/863170255987539968/bot
